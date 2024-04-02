@@ -1,19 +1,16 @@
 # Table of contents
 
 * [📚 Wiki](README.md)
-* [Accéder à FreeWebs](https://www.freewebs.ml)
+* [Accéder à Bees Tech](https://beestech.fr)
 * [FAQ](faq.md)
 
 ## 👨‍💼 Espace Client
 
-* [Accéder à l'espace client](https://www.freewebs.ml/espace-client/)
-* [Inscription](espace-client/inscription.md)
-* [Connexion](espace-client/connexion.md)
-* [Mot de passe oublié](espace-client/mot-de-passe-oublie.md)
+* [Accéder à l'espace client](https://https/my.beestech.fr/)
 
 ## ⚙️ CPanel
 
-* [Accéder au CPanel](https://cpanel.freewebs.ml/)
+* [Accéder au CPanel](https://cpanel.beestech.site)
 
 ## 📦 Softaculous
 
@@ -21,8 +18,8 @@
 
 ## 🔗 Nos réseaux
 
-* [YouTube](https://www.youtube.com/channel/UC6Il8wdL4aBx1ezlbhy2yCA)
-* [Twitter](https://twitter.com/freewebshost)
-* [Instagram](https://instagram.com/freewebshost)
-* [Github](https://github.com/FreeWebsOff)
-* [Paypal](https://paypal.me/freewebshost)
+* [Twitter](https://twitter.com/beestechfr)
+* [Discord](https://discord.gg/xHTWKYH2Rj)
+* [Github](https://github.com/beestechfr)
+* [LinkedIn](https://www.linkedin.com/in/tanguy-frageul/)
+* [Paypal](https://paypal.me/tanguyfgl)
