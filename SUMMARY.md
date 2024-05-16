@@ -6,11 +6,11 @@
 
 ## 👨‍💼 Espace Client
 
-* [Accéder à l'espace client](https://https/my.beestech.fr/)
+* [Accéder à l'espace client](https://my.beestech.fr/)
 
 ## ⚙️ CPanel
 
-* [Accéder au CPanel](https://cpanel.beestech.site)
+* [Accéder au CPanel](https://cpanel.beestech.fr/)
 
 ## 📦 Softaculous
 
