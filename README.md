@@ -6,7 +6,7 @@ description: Le wiki officiel de Bees Tech
 
 ## Bienvenue ! <a href="#welcome" id="welcome"></a>
 
-Vous trouverez ici, des explications ainsi que des tutoriels pour vous aider à créer votre site, installer un certificat SSL (HTTPS), des réponses à vos questions.
+Vous trouverez ici, des explications ainsi que des tutoriels pour vous aider à créer votre site, installer un certificat SSL (HTTPS), des réponses à vos questions et bien plus encore.
 
 ### Organisation <a href="#organisation" id="organisation"></a>
 
