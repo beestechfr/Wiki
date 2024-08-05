@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📚 Wiki](README.md)
 * [Accéder à Bees Tech](https://beestech.fr)
+* [📚 Wiki](README.md)
 * [FAQ](faq.md)
 
 ## 👨‍💼 Espace Client
@@ -10,7 +10,7 @@
 
 ## ⚙️ CPanel
 
-* [Accéder au CPanel](https://cpanel.beestech.fr/)
+* [Accéder au cPanel](https://cpanel.beestech.site/)
 
 ## 📦 Softaculous
 
@@ -22,4 +22,4 @@
 * [Discord](https://discord.gg/xHTWKYH2Rj)
 * [Github](https://github.com/beestechfr)
 * [LinkedIn](https://www.linkedin.com/in/tanguy-frageul/)
-* [Paypal](https://paypal.me/tanguyfgl)
+* [PayPal](https://paypal.me/tanguyfgl)
